@@ -55,17 +55,17 @@ Form
   margin: 20px 0;
 }
 .cd-form h1 {
-  font-size: 1.9rem;
+  font-size: 2.5rem;
   color: #94aab0;
   margin-bottom: 10px;
 }
 .cd-form h2 {
-  font-size: 1.7rem;
+  font-size: 2.0rem;
   color: #94aab0;
   margin-bottom: 10px;
 }
 .cd-form h3 {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   color: #94aab0;
   margin-bottom: 10px;
 }
@@ -300,6 +300,18 @@ Form
   .cd-form legend + div {
     /* reduce margin-top for first form element after the legend */
     margin-top: 20px;
+  }
+  .cd-form h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  .cd-form h2 {
+    font-size: 2.0rem;
+    margin-bottom: 10px;
+  }
+  .cd-form h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
   }
   .cd-form h4, .cd-form .cd-label {
     font-size: 1.4rem;
